@@ -27,6 +27,7 @@ def run():
         if hasNot(l, data2):
             data2["data"].append(l)
 
+            print("Downloading: " + l["title"])
             r = requests.get(l["url"])
             html = r.text
             write_to_file(html, l["title"])

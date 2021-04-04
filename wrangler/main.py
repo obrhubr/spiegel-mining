@@ -17,8 +17,6 @@ def already_wrangled(data, n):
     return False
 
 def main():
-    data = []
-
     with open("data/wranglerdata.json", encoding="utf-8") as json_file:
         jsondata = json.load(json_file)
 
@@ -26,6 +24,7 @@ def main():
     wranglerdata = {}
     wranglerdata["data"] = []
     for n in files:
+        print("Wrangling file: " + n)
         if n == "articles.json":
             continue
 
@@ -41,7 +40,7 @@ def main():
         returndat = ex.extract_html(html)
         
         if returndat != []:
-            data.append(returndat)
+            dsf.write_csv('alldata.csv', ["time", "length", "rubrik", "author", "keywords"], [returndat])
 
     json_data = wranglerdata["data"]+jsondata["data"]
     combined_data = {"data": json_data}
@@ -51,4 +50,3 @@ def main():
             outfile.close()
 
     logging.info("Writing features  to csv: ")
-    dsf.write_csv('alldata.csv', ["time", "length", "rubrik", "author", "keywords"], data)
