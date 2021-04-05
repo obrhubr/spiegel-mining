@@ -13,9 +13,22 @@ root - INFO - Starting to get data:
 root - INFO - Reading 'schlagzeilen' page to find new articles: 
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
 urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /schlagzeilen/ HTTP/1.1" 200 None
-root - INFO - The files are identical: 
 root - INFO - Finished updating the new/site.json file: 
+root - INFO - Downloading new articles: 
+urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/bulgarien-partei-von-premier-borissow-erhaelt-die-meisten-stimmen-bei-parlamentswahl-a-1c2b4ec0-e501-4afe-8c8a-85c518d49882 HTTP/1.1" 200 None
 root - INFO - Wrangling the data: 
+root - INFO - Extracting features:  CoronaNews  RKI registriert 8497 Neuinfektionen und 50 Todesfälle.html
+root - INFO - Extracting features: Aufregung über Enthüllungsbericht Fernsehbericht über geheime RestaurantBesuche von Ministern nur Spaß.html
+root - INFO - Extracting features: Filmpreise des USSchauspielerverbands Hollywoodstar Chadwick Boseman posthum als bester Darsteller geehrt.html
+root - INFO - Extracting features: Hochrechnungen nach Parlamentswahl in Bulgarien Partei von Premier Borissow liegt vorn.html
+root - ERROR - Fatal error: could not extract keywords: 
+root - INFO - Extracting features: Nach Boykott Vjosa Osmani zur Präsidentin des Kosovo gewählt.html
+root - INFO - Extracting features: RassismusVorwurf in der Primera División Valencia zum Weiterspielen gezwungen  betroffener Spieler blieb in der Kabine.html
+root - INFO - Extracting features: Tipps von der Karriereberaterin Plötzlich gekündigt  wie kann ich mich ganz neu orientieren.html
+root - ERROR - Fatal error: could not extract author: 
+root - INFO - Extracting features: Von München nach Zagreb Meine unerfreuliche Langstreckenfahrt im Elektroauto.html
+root - ERROR - Fatal error: could not extract author: 
 root - INFO - Writing features  to csv: 
 root - INFO - Visualizing the data: 
 matplotlib.font_manager - DEBUG - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=11.0.
@@ -804,93 +817,93 @@ matplotlib.font_manager - DEBUG - findfont: score(<Font 'Rage Italic' (RAGE.TTF)
 matplotlib.font_manager - DEBUG - findfont: score(<Font 'Bell MT' (BELLB.TTF) normal normal 700 normal>) = 10.335
 matplotlib.font_manager - DEBUG - findfont: score(<Font 'Ravie' (RAVIE.TTF) normal normal 400 normal>) = 10.05
 matplotlib.font_manager - DEBUG - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to Arial ('C:\\Windows\\Fonts\\arial.ttf') with score of 0.050000.
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F47F88F48>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F47F88F48> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E51A061C8>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E51A061C8> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F4833B2C8>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F4833B2C8> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E51C6F208>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E51C6F208> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F486C0308>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F486C0308> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E5104C488>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E5104C488> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F48A48F48>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F48A48F48> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E51E3A108>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E51E3A108> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F48C38C48>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F48C38C48> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E50F983C8>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E50F983C8> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F3D202508>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F3D202508> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E529CDA88>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E529CDA88> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F3CFFE248>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F3CFFE248> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E50E462C8>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E50E462C8> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F3CD39E08>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F3CD39E08> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E509434C8>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E509434C8> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F3BBDF848>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F3BBDF848> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E51EBB308>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E51EBB308> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F3BD3D5C8>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F3BD3D5C8> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E51D19888>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E51D19888> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F3CCAC0C8>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F3CCAC0C8> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E51CB4248>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E51CB4248> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F3CE5A288>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F3CE5A288> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E5066E448>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E5066E448> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F3D020C48>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F3D020C48> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E50866AC8>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E50866AC8> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F4C726248>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F4C726248> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E50AE2C88>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E50AE2C88> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F4CAA4C08>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F4CAA4C08> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E50DD3EC8>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E50DD3EC8> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F4CF29DC8>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F4CF29DC8> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E51D97808>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E51D97808> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F4D2BB9C8>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F4D2BB9C8> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E523674C8>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E523674C8> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F4E607908>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000022F4E607908> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E52935DC8>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000021E52935DC8> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
