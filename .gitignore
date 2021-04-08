@@ -1,4 +1,5 @@
-data
-img
+data/new
+data/articles/*.html
 .vscode
-vizier/*.html
+data/*.csv
+data/wranglerdata.json

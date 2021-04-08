@@ -9,8 +9,8 @@ echo {\"data\": []} >> wranglerdata.json
 echo time,length,rubrik,author,keywords, \n >> alldata.csv
 cd articles
 touch articles.json
-echo {\"data\": []} >> site.json
+echo {\"data\": []} >> articles.json
 cd ..
 cd new
 touch site.json
-echo {\"data\": []} >> articles.json
+echo {\"data\": []} >> site.json
