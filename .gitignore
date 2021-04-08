@@ -1,5 +1,5 @@
+data/*.json
 data/new
 data/articles/*.html
 .vscode
 data/*.csv
-data/wranglerdata.json
