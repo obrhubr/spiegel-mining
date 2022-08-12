@@ -16,642 +16,208 @@ urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /schlagzeilen/ 
 root - INFO - Finished updating the new/site.json file: 
 root - INFO - Downloading new articles: 
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/myanmar-abgesetzter-botschafter-in-london-bittet-um-hilfe-fuer-sein-land-a-87f058ea-bfc3-4747-94e4-6b8ce91f95dd HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /auto/chelsea-sexton-im-interview-alles-was-wir-beim-ev1-gelernt-haben-wurde-ignoriert-a-a340991d-6609-4153-a7b2-42ff5165aaa3 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/news-des-tages-markus-soeder-robbt-sich-heran-intensivmediziner-rufen-um-hilfe-a-d2c539ce-156d-4d23-ab74-ae2361c6e144 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /kultur/tv/sonja-zietlow-moderiert-neue-show-im-zdf-the-dog-house-a-9483173a-e8eb-43f6-8127-f8e52542be83 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/israel-gedenkt-der-opfer-des-holocaust-a-84986327-9f57-4c43-bfb3-a8ee590ce49b HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wissenschaft/medizin/corona-impfungen-potsdam-testet-digitale-warteliste-fuer-uebrig-gebliebene-impfdosen-a-d7a752e3-bd3f-456a-80aa-23f4dc439cb3 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/halle-cdu-stadtrat-andreas-schachtschneider-zieht-kandidatur-nach-impfskandal-zurueck-a-7d296d3b-b061-4606-996a-3ec9c65d7c2a HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/fc-barcelona-im-clasico-machtloser-messi-a-6cd95158-db98-46ad-8527-2d79b3aa918f HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/soziales/coronakrise-zahl-der-insolvenzen-zieht-an-a-cabe497c-f304-4ebb-a0da-c4dd7a832e0e HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /kultur/tv/guenther-jauch-durch-acht-frauen-ersetzt-thomas-gottschalk-und-die-acht-jauchetten-a-e3a687ed-eaf0-40a9-909f-d02eda06bbd5 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wissenschaft/technik/helgoland-weltkriegs-wrack-wird-auf-gefaehrliche-stoffe-untersucht-a-036cd7b5-9a0d-42ad-b83e-ebf4ade84d62 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/frankreich-sehnsucht-nach-corona-ende-a-e3d4a31c-614c-41b5-9b20-ad03c3c5c1f7 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/elon-musk-tesla-gruenheide-das-heuchlerische-gerede-des-tesla-chefs-a-4d9d9b7e-81c6-424c-9311-b9a6b6ecd294 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/cdu-csu-bundestagsfraktion-brinkhaus-und-dobrindt-draengen-parteichefs-zu-rascher-klaerung-der-k-frage-a-8cb5ed2d-9497-4693-be49-c684996665c2 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/justiz/youtuber-frederik-m-vor-gericht-in-hamburg-a-8e840af1-1619-49fb-987f-7ee7a7119b07 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/coronavirus-arbeitsminister-hubertus-heil-plant-bundesweite-testpflicht-fuer-betriebe-a-4dc8e513-1ca1-4e76-8c14-8448bb4f58ec HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /kultur/musik/prince-album-welcome-2-america-von-2010-erscheint-posthum-a-89a5d8c8-14fe-40fe-9986-55149076a169 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/autobahn-wird-knapp-eine-milliarde-euro-teurer-a-dc2fd195-606f-479a-bb38-7e6e7b5094fa HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/unternehmen/dessau-idt-biologika-legt-grundstein-fuer-neues-corona-impfstoffwerk-a-684a2117-2570-44e0-8dee-5c65f987ddd5 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/armin-laschet-fuer-aufhebung-der-impfreihenfolge-noch-im-fruehjahr-a-bd802a87-6315-4cbe-95d0-ecfa2cd134aa HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/usa-behoerden-nehmen-an-grenze-zu-mexiko-so-viele-migranten-fest-wie-seit-15-jahren-nicht-mehr-a-4f3fc18d-814b-4d40-871f-e83d7ba20830 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /netzwelt/games/erste-spielkonsolen-also-bin-ich-meinen-eltern-auf-den-nerv-gegangen-a-effb4e4a-f209-426b-a83b-50989b639bf7 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/corona-krise-nrw-schickt-schueler-wieder-in-den-distanzunterricht-a-2fa10fdf-7486-4c7a-a682-9a59c981e17b HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/ostukraine-konflikt-evp-fraktionschef-manfred-weber-schlaegt-neue-sanktionen-gegen-russland-vor-a-9ae99472-7816-45a5-9269-e4d25317b1f0 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /kultur/1500-euro-fuer-ein-150-millionen-bild-a-04c82f7f-246b-4c75-a683-6d1f4d00830a HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/natans-iran-meldet-zwischenfall-in-atomanlage-a-2b84a748-96bd-4581-9238-d9ca1c51b8e9 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/rechnungshof-warnt-vor-schulden-lawine-a-3304b08f-5a9f-4650-9809-a2079021839e HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/china-bergleute-in-ueberflutetem-bergwerk-eingeschlossen-a-fb721bd2-b06d-425e-bcbf-13bdf9a5f053 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /international/germany/a-jab-and-many-questions-getting-vaccinated-should-have-made-me-happy-then-came-the-headlines-a-e9a80d23-a9e8-4e2d-b59b-7ba3e29b8463 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/ramsey-clark-frueherer-us-justizminister-ist-gestorben-a-ab00743c-4e18-466a-b219-d7338357cc17 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/hertha-bsc-freistellung-des-torwarttrainers-zsolt-petry-wird-zum-politikum-a-bb2af2e4-7bda-44ef-9fd8-3a7267d445a9 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wissenschaft/weltall/nasa-verschiebt-geplanten-hubschrauberflug-ueber-dem-mars-a-c9155098-4e8c-4af2-9b4a-e70663c69a78 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/loeffingen-in-baden-wuerttemberg-zwei-dutzend-affen-brechen-aus-tierpark-aus-a-cef9fb92-3c45-4c22-9e4b-75e8955a6765 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wissenschaft/medizin/corona-news-am-sonntag-robert-koch-institut-meldet-knapp-18-000-neuinfektionen-a-ff86811a-4836-4815-b6d5-0f2cce8f23f1 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/unternehmen/china-tv-zensur-radiert-westliche-marken-aus-a-870dffda-22fa-4ecd-9b31-c3b33410d322 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /karriere/die-teppichreparatur-raetsel-der-woche-a-e6f025e8-83fc-4e50-bf19-1f4dac21aadb HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /geschichte/monarchin-auguste-victoria-wie-die-letzte-deutsche-kaiserin-um-die-krone-kaempfte-a-89701b5f-d57c-47e6-920a-679319a1c436 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/service/werbungskosten-worauf-sie-bei-der-steuererklaerung-achten-sollten-a-a872540f-6735-4c55-a48c-7754e6142ee6 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/unternehmen/coronakrise-deutsche-moebelbauer-kaempfen-mit-lieferengpaessen-a-8c97fec6-9614-41dc-a758-cb78084376b7 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/armin-laschet-verlangt-schnelle-entscheidung-ueber-kanzlerkandidatur-von-cdu-und-csu-a-c07ebbac-940a-412a-9784-5635cbc85cab HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /karriere/nebenjob-bei-toennies-zweitjob-verschwiegen-kuendigung-ungueltig-a-de13df03-41bd-4638-bed3-17688ec641b5 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/real-madrid-gewinnt-el-clasico-gegen-den-fc-barcelona-im-stroemenden-regen-a-ba7dbe9e-2736-478e-84f8-f93afd62010b HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /kultur/der-kleine-impfwarteschlangen-knigge-kolumne-a-487aecbc-4f4e-4320-b0cc-97f50ebbef6e HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/fc-bayern-muenchen-nach-1-1-gegen-union-berlin-mit-schwerem-gepaeck-nach-paris-a-c70ce25d-1e3f-4e68-8149-0269824862db HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/angela-merkel-fordert-von-wladimir-putin-deeskalation-in-der-ostukraine-a-0e862d27-e05d-46d8-a32c-49c29d644ec7 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/jahresweltbestzeit-schwimmer-florian-wellbrock-bereit-fuer-olympia-in-tokio-a-f052dcbe-d70e-4e27-ae74-763c6c22baff HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/bitcoin-peter-thiel-warnt-vor-chinesischer-finanzwaffe-a-7c5a4f3a-64d6-4822-8cb3-0e635522ddc4 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /kultur/tv/wegen-corona-ausgefallen-guenther-jauch-wird-durch-acht-frauen-ersetzt-a-f8508316-9bbd-4fd1-8e74-89e440d4f62d HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/infektionsschutzgesetz-52-unionsabgeordnete-unterstuetzen-initiative-fuer-machtausbau-a-46ad1eac-f946-460a-acda-2b4f5e7e8eff HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/borussia-dortmund-gewinnt-dank-ansgar-knauff-beim-vfb-stuttgart-der-tueroeffner-a-30f269c8-7a41-4721-865c-d0ec564cc41b HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/justiz/celle-vermisste-16-jaehrige-ist-wieder-bei-ihren-eltern-a-17d9f8d9-9b4c-40ed-ae2f-47522828c70b HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/aermelkanal-kuestenwache-rettet-mehr-als-80-migranten-aus-seenot-a-986e8728-d573-424c-ad6b-da771c7c64bb HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/unternehmen/greenpeace-kritisiert-eu-kommission-zu-viel-geld-fuer-fleisch-und-milchwerbung-a-20b112e2-1273-434c-9b65-d4b433b60ef5 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/bildung/segeln-statt-shutdown-schulklasse-kehrt-nach-halben-jahr-auf-see-zurueck-a-dcc1f79f-28a9-42c8-8aed-c832a265d453 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /netzwelt/web/paket-spam-vorsicht-vor-gefaelschten-sms-zu-paket-sendungen-a-2322a91b-94a7-428d-8fe1-83352e59aab9 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/bundesliga-teenager-retten-borussia-dortmund-den-sieg-beim-vfb-stuttgart-a-30d19b95-6675-467e-a918-6b10aaa14a9e HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/thailand-meditierender-moench-aus-ueberfluteter-hoehle-gerettet-a-71ef4e16-f9be-4c5c-9442-eff51b78b336 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /karriere/corona-lockdown-und-sprachverwirrung-satirisches-woerterbuch-a-7e9be332-8156-41fe-bc86-90c3d3bc901d HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /karriere/befoerderung-ablehnen-wie-sag-ich-s-meinem-chef-a-0b536fdd-a3db-408e-b7e2-8f241b3598ce HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/die-geplanten-neuerungen-und-ihre-fallstricke-a-f2295735-1e6a-4098-974f-c5595593384f HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/neymar-und-kylian-mbappe-von-paris-saint-germain-fuer-bayern-muenchen-zu-gut-a-09533df8-863b-48e8-824b-e7d1191ed697 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/pferderennen-rachael-blackmore-gewinnt-als-erste-frau-das-grand-national-a-da93efe0-156b-4c68-80be-2b6074d3ab97 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/justiz/a49-weiterbau-in-hessen-umweltaktivisten-nach-abseilaktion-angeklagt-a-87fa23e2-09d8-461e-ae60-5124d535e53e HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/afd-und-bundesparteitag-mit-tarnanstrich-in-den-wahlkampf-a-54784029-03f5-4ae0-934b-a6af6f53b73f HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/fc-schalke-04-alexander-jobst-legt-wegen-anonymer-anfeindungen-bis-hin-zu-bedrohungen-amt-nieder-a-939bc1d6-6562-4b49-bd3b-203d8341ca86 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/grossbritannien-trauerfeier-fuer-prinz-philip-am-17-april-auf-schloss-windsor-a-06146140-87e4-45cd-b2aa-5f1fe063a5a1 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/ukraine-wolodymyr-selenskyj-besucht-front-a-8252eef5-0241-418e-92dd-ea375b13b9a8 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/afd-parteitag-fordert-austritt-deutschlands-aus-der-eu-a-0116e375-b486-48b9-b0ca-bfc2e49160d6 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/bulgarien-bojko-borissow-verzichtet-auf-parlamentsmandat-a-f6f6c31c-13e0-42b7-a5e9-c793137a0cf4 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /geschichte/kriegsdienstverweigerung-die-ersten-zivis-in-deutschland-1961-a-541f01b2-9a69-455c-b3c0-d772a7f9990c HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/sri-lanka-schoenheitskoenigin-entreisst-nachfolgerin-die-krone-weil-die-angeblich-nicht-verheiratet-ist-a-8b473146-25ce-4cd3-a3d0-2219ff9cb5f9 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/nach-hackerangriff-cdu-abgeordneter-pfeiffer-verzichtet-auf-bundestagskandidatur-a-3744ddea-1b82-4a6a-be78-b7bdee68f260 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /netzwelt/web/khloe-kardashian-darum-will-sie-dass-ein-foto-von-ihr-aus-dem-internet-verschwindet-a-8e506e07-9040-4d93-8a64-6f2cddf8dc34 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /auto/pendlerrisiko-pedelec-die-staedte-sind-schlecht-vorbereitet-a-f6c707dc-ce38-4aab-8442-5350bcaaa003 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/cdu-unternehmer-und-politiker-gruenden-klimaunion-a-ee68509e-267c-4060-8804-f0fc5a58e960 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/premier-league-fc-liverpool-gewinnt-erstmals-seit-dezember-ein-heimspiel-in-der-liga-a-cd0a0a17-47b7-404f-9140-5b4f41fd06dc HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/justiz/muenchen-kindesmissbrauch-im-live-stream-sechs-jahre-haft-fuer-auftraggeber-a-ae7b50fe-d706-4c78-b042-f2320de4e7ec HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/myanmar-junta-toetet-offenbar-mehr-als-80-aktivisten-a-8bcd4f40-8b8c-44ca-a882-d81cdf2c948d HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /netzwelt/gadgets/iphones-sollen-kuenftig-fahrraeder-kopfhoerer-und-rucksaecke-wiederfinden-a-e7878443-dc44-4815-8467-69f3e00f5d32 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/dfb-frauen-gewinnen-testspiel-gegen-australien-die-naechste-generation-ueberzeugt-a-16d96136-cc78-4177-8e91-ac95dce1562b HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wissenschaft/technik/teilchenphysik-hinweise-auf-neue-kraefte-oder-elementarteilchen-verdichten-sich-a-7f75b26d-da34-4012-9b2f-747dffb8a570 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/bundesliga-eintracht-frankfurt-gewinnt-spektakel-bayern-muenchen-nur-remis-a-cab4e2e0-d65f-4776-b6f9-b3569d6ec53c HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/service/stiftung-warentest-bietet-kostenlosen-vergleich-von-girokonten-an-a-1cf7873e-dff3-4aaf-947d-98470883784c HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/illegale-corona-diners-pariser-polizei-laesst-zwei-untergrund-restaurants-auffliegen-a-4cb1645d-b79e-41d4-957a-0067c6f5eef6 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /kultur/kino/scott-rudin-hollywood-und-broadway-produzent-soll-tyrannisch-und-beleidigend-gewesen-sein-a-4c825899-98d0-4415-8a61-8c52f2ffb18f HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/verstoss-gegen-atomabkommen-iran-beginnt-mit-uran-anreicherung-in-modernen-zentrifugen-a-434f0ad2-4b94-46e7-affa-7bdbcbd1f823 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/unternehmen/bmw-meldet-verkaufsrekord-33-prozent-mehr-autoverkaeufe-a-7a3b1e99-2816-420f-832b-0f5abe886032 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/covid-19-angst-die-tat-als-untat-kolumne-a-8aadc2db-f35f-4884-bbe6-559b3944ec14 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /kultur/ist-salvator-mundi-doch-nicht-von-leonardo-a-4ea2d164-1710-488d-81ae-a48151b8ac1c HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/corona-politik-in-deutschland-das-sind-jetzt-noch-drei-vier-schwere-monate-a-a79db911-e52b-4394-a5ba-b0af411cb5a8 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/eu-gipfel-in-der-tuerkei-charles-michel-weist-kritik-nach-sofa-eklat-zurueck-a-e2392d1d-1bcc-4bc8-b7a0-35ddecadb830 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /tests/brettspiele/kanban-ev-praga-caput-regni-alma-mater-neue-brettspiele-im-test-a-22f5840b-0677-4f80-8362-400fe6e9ca25 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /reise/europa/unterwasser-museum-von-jason-decaires-taylor-in-cannes-zeit-der-maske-a-6e7cccf6-672f-411b-af3a-13f71e324baf HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/premier-league-manchester-city-laesst-gegen-leeds-united-in-unterzahl-punkte-liegen-a-2ca071fd-b253-4650-b837-cd7472042c01 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/fussball-quiz-wer-war-der-aelteste-bundesliga-torschuetzenkoenig-a-837e7056-9423-4104-9e5d-3a7a97bd0f59 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/2-fussball-bundesliga-vfl-bochum-nutzt-fehltritt-des-hamburger-sv-nicht-st-pauli-setzt-erfolgsserie-fort-a-4d6c3efd-bb4e-4922-9029-293000645435 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/service/immobilien-deutlich-mehr-baugenehmigungen-fuer-einfamilienhaeuser-a-c44aab33-0a05-4c8d-a633-7f42e3ee578c HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/dfb-frauen-corona-befund-kurz-vor-laenderspiel-gegen-australien-a-9dc86fff-a56d-4d27-9f90-47fae1cdab64 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/karl-lauterbach-hat-sich-mit-astrazeneca-impfen-lassen-a-8a1c3ccd-ad69-4fd9-8fe9-a2e12162fb3d HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/john-naisbitt-ist-tot-zukunftsforscher-und-bestsellerautor-a-01d53db6-888f-49fa-8b1f-7920adcce018 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/horstmar-umgekippter-anhaenger-verliert-18-tonnen-guelle-keller-vollgelaufen-a-19ea0fe0-65e8-455a-94fb-baced57c7480 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/leute/prinz-philip-salutschuesse-fuer-verstorbenen-mann-von-queen-elizabeth-ii-a-a3467f1f-a6fb-4b2d-9158-1d5b556368e9 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/thailand-waran-macht-supermarkt-unsicher-a-13c2d0cc-cca7-44d5-bcf9-2c88429c2223 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/praesidentschaftswahl-in-peru-18-kandidaten-und-kein-favorit-a-b7e41635-49e2-462d-930d-ee794e647191 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/champions-league-fc-bayern-gegen-psg-die-pressestimmen-zum-2-3-a-25d3450a-c2ea-4c39-8823-49d9deafd7b8 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/nordrhein-westfalen-die-linke-nominiert-sahra-wagenknecht-zur-spitzenkandidatin-a-77cf7fdc-36dc-4a69-a215-85a3092848f7 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/myanmar-bekannter-saenger-und-schauspieler-festgenommen-a-3a1a9e60-2071-44ad-8907-e283fbc218ca HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/ousmane-dembele-vom-fc-barcelona-vor-clasico-vom-angreifer-nummer-fuenf-zur-neuen-hoffnung-a-d5ed9d1c-ac96-4088-82a7-c5d8218ad3a3 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/sputnik-v-jens-spahn-will-mit-russland-ueber-impfstoff-verhandeln-a-0cc87b59-6f39-456a-b750-2bfb13316cad HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/bildung/folgen-der-corona-regeln-fuer-kinder-fdp-fraktion-kritisiert-politik-ins-blaue-hinein-a-08f259d9-c3de-4861-8842-dafada50d7cd HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /kultur/tv/pocher-vs-influenzer-so-lief-die-neue-rtl-show-von-oliver-pocher-a-eb9f68a6-6caa-46db-8798-a4164345b133 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/afd-will-noch-keine-spitzenkandidaten-fuer-bundestagswahl-bestimmen-a-80ed35bf-21ac-4ae4-9181-fa405c6d9705 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/champions-league-fc-bayern-muenchen-nach-dem-2-3-gegen-paris-saint-germain-die-entzauberten-a-335ed81d-5187-478e-9c41-298af97f1a50 HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/cdu-volker-bouffier-fordert-klaerung-der-kanzlerfrage-binnen-einer-woche-a-b9142977-a51d-4b66-bc6a-238876de166c HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/corona-angela-merkel-will-bund-durch-infektionsschutzgesetz-mehr-macht-geben-a-4652d0f2-5dc9-479a-a742-0d1cc56e36eb HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/service/photovoltaik-worauf-sie-bei-einer-solaranlage-achten-muessen-kolumne-a-b5cca5d6-2c31-410c-a817-9c019020fb38 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/usa-mike-pence-kuendigt-memoiren-an-a-8bef5c2a-ff96-4f34-91c7-786fcf84fd7b HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/sofagate-um-ursula-von-der-leyen-charles-michel-von-schlechtem-schlaf-geplagt-a-d2efe886-07e8-4f73-88bb-208066a8df06 HTTP/1.1" 200 None
 urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/unternehmen/corona-wirtschaftsgipfel-unionspolitiker-verlangen-testpflicht-fuer-firmen-a-9bbfe715-a65a-4cc6-977a-9b06d758e006 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/gruene-wollen-zuschuesse-fuer-parteinahe-stiftungen-neu-regeln-a-1b9119cd-c0f0-4b76-acf4-4e868366ba38 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/justiz/mexiko-junge-maenner-erschleichen-sich-corona-impfung-haare-weiss-gefaerbt-a-52c35885-ebe5-44a9-82a9-09100ca690b7 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/usa-joe-biden-will-mit-verfuegung-gegen-geisterwaffen-vorgehen-a-6692104e-a777-4066-99cf-fe960fd92323 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/unternehmen/tesla-werk-in-brandenburg-konzern-kritisiert-deutsche-buerokratie-a-def918da-173c-4f50-80f8-e98bafbca75e HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/hongkong-nathan-law-erhaelt-asyl-in-grossbritannien-a-52b24bf5-331d-485d-986f-a8aa5d0a596a HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/eemslift-hendrika-vor-norwegen-gesichert-oelverschmutzung-abgewendet-a-5ab90565-455e-49b2-9987-80b545a1641f HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /start/einstieg-als-krankenpfleger-wie-corona-den-arbeitsalltag-in-der-psychiatrie-erschwert-a-aab0aa41-0c8e-43a9-afc5-ad26ba18ef15 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/news-markus-soeder-corona-angela-merkel-peter-altmaier-ursula-von-der-leyen-ibiza-video-a-06d66087-2514-47c0-99c9-b5c764b80f67 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wissenschaft/medizin/corona-news-am-donnerstag-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19-a-91430027-770f-4f89-9dc5-464bd8521070 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/grossbritannien-militaerattache-soll-myanmars-botschafter-aus-vertretung-ausgesperrt-haben-a-f6c0be30-4f71-403f-bd07-3a5d224d0738 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/champions-league-fc-chelsea-siegt-beim-fc-porto-wie-die-voegel-in-den-sueden-a-6743b4f3-0896-44d4-87d3-17ae178522b4 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/nordirland-bus-in-belfast-bei-erneuten-protesten-in-brand-gesetzt-a-b084b243-f7af-4fd3-9609-739318e9ed00 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/fc-bayern-muenchen-unterliegt-paris-saint-germain-in-der-champions-league-mit-dem-ruecken-zur-wand-a-7fcf7a52-9a4c-4767-bb89-5be7f0d5c74a HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/usa-pharrell-williams-fordert-umfassende-untersuchung-von-tod-seines-cousins-a-15307ca4-1817-48b0-a097-fc6119abc891 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/justiz/italien-mann-soll-saeureangriff-auf-ex-freundin-im-darknet-geplant-haben-a-d0d9c01a-77d4-4adb-b4d3-54df10c346e8 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/champions-league-fc-bayern-muenchen-verliert-gegen-paris-saint-germain-a-17c2fd62-8001-46c1-a28b-4454ecfd5522 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/hungerstreik-gesundheitszustand-von-nawalny-verschlechtert-sich-offenbar-weiter-a-a1d15f89-eeea-4f6d-8e63-e945e5128e41 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wissenschaft/natur/zoonosen-forscher-entwickeln-datenbank-fuer-gefaehrliche-tierkrankheiten-a-f9592153-e769-432d-8a1c-316d06f90c13 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/kanzlerin-angela-merkel-vertraut-markus-soeder-glaubt-die-grosse-mehrheit-der-deutschen-a-4533d8af-5046-4c44-8083-cb3934fb9c4c HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/dfb-pokal-werder-bremen-zieht-durch-knappen-sieg-in-regensburg-ins-halbfinale-ein-a-f4365c4f-fa95-4779-b590-29b0a02c7f28 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/bulgarien-boiko-borissow-will-neuwahlen-verhindern-a-c593734a-f611-4fb1-83db-63232150ba35 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/justiz/celle-vermisste-16-jahre-alte-isabella-in-frankreich-gefunden-a-7d9479c3-6f9a-40d6-aa28-429094f3db1d HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/sputnik-und-markus-soeder-bodo-ramelow-warnt-vor-wettbewerb-unter-den-laendern-a-2085c7ea-60df-4eac-956a-0244a2015f04 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/boris-johnsons-global-britain-vision-von-der-neuen-soft-power-superpower-a-d2ee2fa5-0502-4146-9dd8-442b73ee1941 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/olympia/olympische-winterspiele-2022-in-peking-doch-keine-boykottplaene-der-usa-a-940a6132-16c5-43f9-8ce4-619dd526b09d HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/justiz/tiger-woods-soll-vor-unfall-in-kalifornien-mit-ueberhoehter-geschwindigkeit-gefahren-sein-a-d862e182-142f-463b-bfd4-fdac8f4e1687 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/soziales/g20-stunden-entwicklungslaendern-noch-laenger-die-schulden-a-5a70f657-f072-4892-ad01-50d3204fbc28 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/soziales/eu-zahlt-daenemark-milliardenhilfe-wegen-getoeteter-nerze-a-f144e4ea-7fe1-4641-94cc-401630bb1efe HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /kultur/literatur/der-roman-den-stephen-king-und-die-new-york-times-feiern-a-d22793a7-5488-4dfa-9d66-9df681c2ccb3 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wissenschaft/mensch/pims-syndrom-lebensgefaehrliche-entzuendungen-bei-kindern-nach-coronainfektion-a-cbd3915e-6b9a-458d-b76e-6b058ffb62f8 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/impfvordraengler-halles-oberbuergermeister-bernd-wiegand-suspendiert-a-bdd98c13-6c4c-4454-b3d6-7385d28c89be HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/justiz/muenster-45-jaehriger-legt-gestaendnis-in-prozess-zu-missbrauchskomplex-ab-a-450b594a-ebc8-4836-b0e0-280e933f8283 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/tuerkei-gericht-verurteilt-putschisten-zu-lebenslanger-haft-a-44a579b8-e1b0-4320-9e07-2d4c5faf3f35 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/news-des-tages-ema-empfiehlt-weiterhin-astrazeneca-kanzlerkandidatur-der-gruenen-facebook-datenleak-a-19bb7b23-9fce-43e2-87c5-dfed749519e9 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/thueringens-cdu-verschiebt-entscheidung-ueber-nominierung-von-maassen-a-24834826-fd6c-4e5d-9843-3725dfb12e02 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /netzwelt/apps/messenger-app-signal-testet-bezahlfunktion-mit-kryptowaehrung-a-f03e2d66-be58-44fd-b0fd-acfe697078b2 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /kultur/michel-foucault-vorwurf-des-kindesmissbrauchs-durch-guy-sorman-a-87a95333-fb4f-440c-a8c6-8c86d8be324b HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/norwegen-bergung-der-eemslift-hendrika-wegen-schlechten-wetters-verschoben-a-b7903b2a-ead0-4ba1-b226-296f6e034091 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/maut-opposition-setzt-sondersitzung-wegen-andreas-scheuer-durch-a-8231f8ac-dab5-4960-9ef0-0172a95ba6fa HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /gesundheit/corona-statistik-alkohol-und-tabakkonsum-bei-jungen-menschen-gestiegen-a-a94d6c89-e87c-4c9b-8f29-7afb5db858b6 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /netzwelt/netzpolitik/armin-laschet-darum-fuehlt-sich-sascha-lobo-vom-cdu-chef-fuer-dumm-verkauft-a-c73f8474-a96b-41f2-a767-e4c9fbd08a61 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/soziales/norwegischer-pensionsfonds-investiert-erstmals-in-offshore-windpark-a-1bde5c0e-3616-4f6c-b97f-042db5b45d3d HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/gesellschaft/antisemitismus-waehrend-corona-studie-berichtet-von-weniger-physischer-gewalt-und-mehr-online-hass-a-aaf8f304-b7c2-4469-a775-4519288a54bc HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/justiz/new-york-polizist-soll-gelogen-haben-90-verurteilungen-koennten-aufgehoben-werden-a-3d5c2607-b9af-49d8-b57f-da6ef96bdc9f HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /geschichte/violet-gibson-die-irin-die-1926-auf-benito-mussolini-schoss-a-aed02cf5-f364-4d3a-82f6-10be11100075 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /netzwelt/web/facebook-versucht-ein-riesiges-datenleak-kleinzureden-530-millionen-betroffene-a-47959c32-4a9f-4719-9050-d26ed154cb8f HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/alexej-nawalny-bundesregierung-fordert-seine-freilassung-a-62620729-2ba2-4bc2-a78e-3c04e8eb4711 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/kandidatenrenen-in-der-union-die-oeffentliche-demuetigung-des-armin-laschet-a-5743b03f-8eab-4ff4-8001-a7e85cce0c1f HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wissenschaft/medizin/coronaimpfstoff-ema-empfiehlt-astrazeneca-weiterhin-uneingeschraenkt-a-2d9b9eae-becf-4115-8af2-77b7ebb4b708 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/chinas-staatschef-beklagt-sich-ueber-stoerungen-a-eb546ec5-50d8-4eb7-97d8-6b09c193c387 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/fc-liverpool-verurteilt-rassistische-beleidigungen-gegen-spieler-trio-a-93c016ee-51f9-44b1-8cad-4b055fb1a85e HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /familie/wie-waere-es-mit-infinity-oder-x-ae-a-xii-a-805d2467-e5b1-49c6-95b7-d9332125488d HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/moderna-dementiert-angeblichen-lieferausfall-hunderttausender-dosen-impfstoff-a-d960f90c-934d-430b-9516-a8a7235dc878 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/leonberg-in-baden-wuerttemberg-ausgebuexte-lamas-loesen-polizeieinsatz-aus-a-b584aada-dbe7-4450-b27c-e46c6b5d9068 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /kultur/senta-berger-beklagt-sexuellen-missbrauch-durch-o-w-fischer-a-673c72a9-9184-4ec0-842c-6c5aed0b576d HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/aprilwetter-wochenende-wird-waermer-und-sonniger-kommende-woche-wieder-kalt-a-0a443ec3-b9bd-4c22-9135-5a94cedcbcfb HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/italien-silvio-berlusconi-ist-erneut-im-krankenhaus-a-5c36125a-d2a0-49e0-9b12-357b543b5e3e HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/corona-christine-lambrecht-will-mehr-freiheiten-fuer-covid-geimpfte-a-e2f75f20-cb5e-426c-881c-3e476d0701ec HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/markus-soeder-bayern-unterzeichnet-vorvertrag-fuer-sputnik-impfstoff-a-94b4786f-7061-4361-b125-22784e98c72d HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /gesundheit/diagnose/psychische-folgen-von-corona-die-angst-nach-der-infektion-a-03d3da25-9a58-4a62-becf-e14f835b72e8 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/champions-league-fc-bayern-vs-paris-st-germain-julian-draxler-der-schattenspieler-a-bdc0d77a-8d35-4bf6-8b2c-26c0e3f29c78 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/justiz/sachsen-lka-chef-petric-kleine-und-abteilungsleiter-verlieren-ihre-jobs-a-ffd325b2-e4b0-46c4-bb7d-d3c1fa9b56f5 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/unternehmen/wahl-auf-groenland-sieg-der-linken-bedroht-umstrittenes-minenprojekt-a-97f8d9fb-9448-4dc0-b2a0-5cb134bd0de0 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /international/germany/campaign-kicks-into-high-gear-a-213e4a08-b393-4085-aae1-26236e9bf2bb HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/soziales/oekonomen-fordern-mehr-zuwanderung-und-hoeheres-rentenalter-a-991f79fc-c024-43f2-a162-0387c533fc04 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/irans-praesident-hassan-rohani-hofft-auf-renaissance-des-atomabkommens-a-92b2ff15-ad48-4ac6-b7e5-d2cb12853332 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/service/urlaub-trotz-corona-die-deutschen-campen-mehr-a-86554ac7-27ea-4bb5-86ce-8ccca8b7543c HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/bildung/corona-und-schulschliessungen-kinderaerzte-sprechen-von-wirklich-letzter-option-a-1368eafd-3101-45f9-ae10-96d8732f63a4 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /kultur/tv/zdf-intendant-thomas-bellut-nennt-fusion-mit-ard-sinnlos-a-a139ac1c-ac18-4f0c-816f-cb7059bc8c1b HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/coronavirus-angela-merkel-plaediert-fuer-kurzen-und-einheitlichen-lockdown-a-32d5583e-9354-44ba-aff0-5a7a6ae7ec57 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/unternehmen/forbes-liste-donald-trump-stuerzt-im-milliardaers-ranking-ab-a-28f324c7-7625-40c4-afa0-6fd956073579 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/monheim-in-schwaben-54-jaehrige-nach-frontalunfall-gestorben-zwei-maenner-schwer-verletzt-a-c39ad9a2-3286-45a1-925c-542b27aceb0b HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/adlerflug-ist-tot-deckhengst-starb-an-herzinfarkt-a-e076f9db-2c2f-4b9b-b1c7-6d15939afaf9 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /netzwelt/gadgets/microsoft-kuehlt-server-in-kochender-fluessigkeit-a-71d5b95e-dc7e-40e9-8553-208847c3dc0f HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/iran-explosion-auf-schiff-im-roten-meer-a-053c49f6-204b-46ea-a194-0dd48ab6f32e HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /kultur/tv/wolff-fuss-wird-bundesliga-stimme-von-sat-1-a-791ed20e-fe79-4ae9-bf2b-ad81e8cbb5fc HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /auto/verkehrstote-in-deutschland-rueckgang-bei-zweiradfahrern-am-geringsten-a-892ff17f-7998-4104-a260-58e8cb1d65e1 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/gedern-in-hessen-mann-will-pommes-frittieren-und-zuendet-dabei-sein-haus-an-a-22961c27-0b5e-41b0-a12e-9f10e03dbdfa HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /netzwelt/games/porno-videospiel-subverse-der-sex-ist-ausserirdisch-a-23c24685-c5d7-41af-b805-ea0826124faa HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/zinedine-zidane-real-madrids-trainer-coacht-nicht-mehr-als-er-muss-a-270ff563-fd95-4ae2-8c03-8154d07a6459 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/soziales/corona-schulden-staat-verzeichnet-hoechstes-finanzierungsdefizit-seit-der-wiedervereinigung-a-8f0d6f9c-bdaa-46ad-8382-9fedcd341edf HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/bundestagswahl-gruenen-vorstand-will-am-19-april-vorschlag-fuer-kanzlerkandidatur-machen-a-624964fd-e1eb-451b-a29e-a98ed914f8e6 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/hamburg-und-schwerin-offenbar-leiche-gefunden-bahnverkehr-gestoppt-a-454a3bec-dd2b-46b8-8454-7f02b488386c HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/cdu-wirtschaftsrat-distanziert-sich-von-armin-laschets-lockdown-forderungen-a-c465340a-bdca-4070-a089-8861e148bfcd HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/bundestagswahl-ralph-brinkhaus-fordert-rasche-entscheidung-der-k-frage-a-61c89a24-7e2e-40e3-9dcf-bf56c3621254 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/jude-bellingham-und-borussia-dortmund-in-manchester-besser-geht-s-nicht-a-a7749bb0-d657-4adc-93c4-d4f450eeb8b8 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/unternehmen/ipo-laborkette-synlab-plant-boersengang-a-80b618bf-103b-4a12-9f31-30510fad5b0d HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/unternehmen/corona-einreisebeschraenkungen-in-china-vdma-klagt-ueber-quarantaenehotel-ohne-fenster-a-2262d1b7-d710-4c21-8bc8-e3b690f805a2 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /kultur/festivals-2021-diese-musik-veranstaltungen-sollen-trotz-corona-stattfinden-a-826d1f78-af78-4dbf-9138-1b23338e1470 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/unternehmen/amazon-jeff-bezos-ist-fuer-hoehere-unternehmenssteuern-a-40fe60bf-05eb-472f-89b3-0fe7481c97f8 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /start/richtig-studieren-drei-strategische-fehler-im-studium-und-wie-man-sie-vermeidet-a-63b159b2-fc05-4e76-a6e3-909ed8b3a5e0 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/justiz/bad-soden-salmuenster-bankraeuber-narrt-mit-haesslicher-krawatte-die-polizei-a-289f1445-64dd-4a9f-93bf-dccc67e943b3 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wissenschaft/medizin/corona-news-am-mittwoch-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19-a-0bc31b33-967f-4ebf-adee-fb34013ea8e6 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/news-markus-soeder-armin-laschet-recep-tayyip-erdogan-corona-impfen-bernd-wiegand-a-dcadaede-acf3-4b12-b423-33249b8c4bea HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /auto/tesla-jetzt-auch-bei-tchibo-kaffee-mit-milch-und-stromer-a-54405951-c06a-4a91-a8f8-d3653f021d85 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/corona-pandemie-menschenrechtslage-hat-sich-laut-amnesty-international-deutlich-verschlechtert-a-8efc3219-bddd-45bd-8205-257cfa9b6ac8 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /kultur/tv/markus-soeder-bei-markus-lanz-eiertanz-um-evidenzen-a-6d96df85-73ee-4b6e-abab-5c6238b8ebea HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/champions-league-toni-kroos-fuehrt-real-madrid-mit-traumpass-zum-sieg-gegen-liverpool-a-8cd93620-e7a6-4393-a2da-ad1db93784ef HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/champions-league-borussia-dortmund-verliert-bei-manchester-city-a-c3803c7d-45be-472c-9d3e-2337df4393f9 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/usa-behandlungsverbot-von-transjugendlichen-in-arkansas-beschlossen-a-de5c4a4f-9e0b-4e28-be3e-f9f45b012f98 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/leute/hans-kueng-ist-tot-ein-nachruf-der-unfehlbare-papst-kritiker-a-3f464c22-d675-4fa6-8a49-ac4813549bf8 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/eu-spitze-in-der-tuerkei-kritik-wegen-sitzordnung-bei-recep-tayyip-erdogan-ursula-von-der-leyen-muss-aufs-sofa-a-fbfb7e33-3a69-4c40-a9c7-6a17f0675a83 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/leute/forbes-liste-kim-kardashian-ist-jetzt-milliardaerin-a-1d65e2f5-54f6-4874-b3df-64355015ae73 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/justiz/celle-vermisste-16-jaehrige-isabella-in-frankreich-wieder-aufgetaucht-a-746e4a5d-65b9-4ae6-8159-639c7013cec8 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/champions-league-vinicius-bringt-real-madrid-gegen-liverpool-auf-halbfinalkurs-a-f9f1c896-67ea-48b1-8bb0-df6a78d6fc18 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/champions-league-borussia-dortmund-verliert-im-viertelfinale-bei-manchester-city-a-59c6c813-92ce-4d8e-a7f4-217158ed9050 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /netzwelt/web/yahoo-clever-macht-dicht-solch-absurde-nutzerfragen-werden-dabei-geloescht-a-e775ad66-0b09-40e3-b275-4b9a4a8a2e80 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/iran-nennt-erste-atomgespraeche-ohne-die-usa-konstruktiv-a-8c5a9449-6aba-4a3d-8eda-2bdfe201866e HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /psychologie/corona-krise-was-ich-wieder-neu-lernen-muss-wenn-das-hier-vorbei-ist-kolumne-a-14ab9d99-0cf5-4067-81d4-001d5f3a8ce5 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wissenschaft/medizin/corona-virus-und-covid-19-die-suche-nach-dem-billigen-allerwelts-impfstoff-a-427fb73e-26d3-458b-bedd-4321c92fe9bb HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/unternehmen/iwf-rechnet-mit-anhaltendem-boersenboom-a-4ae08042-dbd5-4986-82ca-f93b625ee044 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/alexej-nawalny-aerztin-anastassija-wassiljewa-vor-straflager-festgenommen-a-7446f1a0-5668-45df-9bbc-351e9c09d654 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/2-bundesliga-holstein-kiel-verliert-beim-1-fc-heidenheim-faellt-zurueck-a-6f3a2980-934c-47ab-b447-8e13b2b693b6 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/leute/paul-pierce-espn-feuert-laut-medienberichten-nba-experte-a-a3b05f7b-12f3-4d72-a3ae-e185bd182ff4 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/2-bundesliga-karlsruher-sc-muss-nach-corona-faellen-in-zweiwoechige-quarantaene-a-81fed9c0-bc3f-4d5a-a557-0898a8464ae1 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/fall-george-floyd-schluesselzeuge-verweigert-die-aussage-a-12d63864-f99c-48a1-a7ba-c52e64778c6b HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/fokus-auf-erstimpfungen-bayerns-gesundheitsminister-holetschek-erwaegt-aenderung-der-impfstrategie-a-4b74bc93-93ae-4bef-b5be-a4bfe049309e HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/corona-virus-armin-laschets-vorstoss-spd-laender-sehen-zu-viele-offene-fragen-a-39b223fb-0bea-4280-a0a3-dc993e7d2dba HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/ostukraine-gefechte-mehr-truppen-und-panzer-an-der-grenze-was-hat-waldimir-putin-vor-a-be044aac-8d44-411f-9873-8b5a97437fe1 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/news-des-tages-corona-impfung-beim-hausarzt-cdu-chef-armin-laschet-joe-biden-a-41de57b4-5a5b-4059-81bc-88459ecd20be HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /kultur/zdf-dokumentarfilm-riskantes-doppelspiel-in-pjoengjang-a-102ae16d-0d56-4a94-a827-adaf14df932b HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /international/germany/a-third-wave-washes-over-germany-as-vaccination-campaign-mounts-a-e19a1368-5ac1-4a7b-aba7-05b68b2019a1 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/cdu-mehrere-bundestagsabgeordnete-wollen-markus-soeder-als-kanzlerkandidat-a-2c12fd52-2abd-4232-b99c-e577c1dd6a04 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /start/appell-einer-professorin-in-der-corona-krise-verlaengern-sie-ihr-studium-a-7cffd2a7-3366-45c2-b5bb-9bd5303f61b0 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /karriere/abfindung-die-wichtigsten-fragen-und-antworten-a-0e104e33-1e53-4848-ada6-d3d17af2dbf3 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/ausland/palaestinenserpraesident-mahmoud-abbas-laesst-sich-in-berliner-charite-untersuchen-a-2efdf0f5-61d8-476e-9695-f30c7f863377 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/cdu-fuehrung-in-der-coronakrise-armin-laschet-und-die-bruecke-ins-nichts-a-a1d2b6fc-1a2b-4a3c-ac97-70e6260bbde4 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /sport/fussball/bayern-muenchen-serge-gnabry-faellt-gegen-paris-saint-germain-mit-corona-infektion-aus-a-825e00bc-fe34-414b-ba15-91b54b031957 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /panorama/ostfriesland-von-flut-ueberrascht-ausfluegler-auf-ehemaliger-bohrinsel-eingeschlossen-a-6508b141-01b7-456b-9789-68695f86fa10 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /community/republik-21-wie-wollen-wir-miteinander-reden-a-e10c2f57-4a9d-4aa9-93dc-998d0a707747 HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wirtschaft/palmoel-sri-lanka-verbietet-import-und-anbau-a-3007b1b7-8aa4-430e-8fe0-8ea1021511be HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /politik/deutschland/maut-affaere-andreas-scheuer-lehnt-kooperation-mit-ermittlungsbeauftragtem-ab-a-3b734684-5778-401c-89c6-3fb7d16246cf HTTP/1.1" 200 None
-urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.spiegel.de:443
-urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wissenschaft/medizin/corona-news-am-dienstag-die-wichtigsten-entwicklungen-zu-sars-cov-2-und-covid-19-a-baeb43d9-1522-4811-acd4-246dc660fc5e HTTP/1.1" 200 None
+urllib3.connectionpool - DEBUG - https://www.spiegel.de:443 "GET /wissenschaft/medizin/corona-news-am-samstag-robert-koch-institut-meldet-mehr-als-24-000-neuinfektionen-a-aa6fd8ca-223b-4cc3-9b40-0da3fb87f529 HTTP/1.1" 200 None
 root - INFO - Wrangling the data: 
-root - INFO - Extracting features:  CoronaNews  Mehr als 650000 Dosen an einem Tag  RKI meldet Impfrekord.html
-root - INFO - Extracting features: 2 FußballBundesliga Kiel fällt nach Niederlage in Heidenheim im Aufstiegsrennen zurück.html
-root - INFO - Extracting features: 400 Millionen Euro Bruttoerlös angestrebt Laborkette Synlab plant Börsengang.html
-root - INFO - Extracting features: 530 Millionen Betroffene Facebook versucht ein riesiges Datenleak kleinzureden.html
+root - INFO - Extracting features:  CoronaNews  Polizei verhindert QuerdenkerAufläufe in Leipzig und Halle.html
+root - INFO - Extracting features:  CoronaNews am Samstag  Höchststand bei Auslastung der Intensivbetten in Deutschland.html
+root - INFO - Extracting features: 2 FußballBundesliga 03 in Paderborn  Bochum kann Fehltritt des HSV nicht nutzen.html
+root - INFO - Extracting features: 60 Jahre Zivildienst Das Vaterland auf andere Weise retten.html
 root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: A Jab and Many Questions Getting Vaccinated Should Have Made Me Happy Then Came the Headlines.html
+root - INFO - Extracting features: AfDBundesparteitag Mit Tarnanstrich in den Wahlkampf.html
 root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Abfindung Wenn der Chef sich trennen will.html
+root - INFO - Extracting features: Auf dem Rad zur Arbeit Pendlerrisiko Pedelec.html
 root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Abkehr vom Öl Norwegischer Pensionsfonds investiert erstmals in Meereswindpark.html
-root - INFO - Extracting features: Abseits der EUVereinbarungen Spahn will mit Russland über SputnikImpfstoff verhandeln.html
-root - INFO - Extracting features: Alter  Die MidlifeKolumne Was ich wieder neu lernen muss wenn das hier vorbei ist.html
+root - INFO - Extracting features: Auf Schloss Windsor und unter Coronabedingungen Trauerfeier für Prinz Philip am 17 April.html
+root - INFO - Extracting features: Barças Dembélé vor Clásico Vom Angreifer Nummer fünf zur neuen Hoffnung.html
 root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Amnesty International Coronakrise verschlechtert Menschenrechtslage.html
-root - INFO - Extracting features: Angeblicher Caravaggio 1500 Euro für ein 150MillionenBild.html
-root - ERROR - Fatal error: could not extract keywords: 
-root - INFO - Extracting features: Ankündigung Söders Bayern unterzeichnet Vorvertrag für SputnikImpfstoff.html
-root - INFO - Extracting features: Antriebsloser Frachter vor Norwegen Eemslift Hendrika gesichert  Ölverschmutzung abgewendet.html
-root - INFO - Extracting features: Aufsteigen zur Führungskraft Das tu ich mir nicht an.html
+root - INFO - Extracting features: BayernRemis gegen Union Mit schwerem Gepäck nach Paris.html
 root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Aus der PaisleyParkSchatzkammer Verschollenes PrinceAlbum erscheint posthum.html
-root - INFO - Extracting features: BadenWürttemberg Ausgebüxte Lamas lösen Polizeieinsatz aus.html
-root - INFO - Extracting features: Baerbock oder Habeck Grünenvorstand will am 19 April Vorschlag für Kanzlerkandidatur machen.html
-root - INFO - Extracting features: Banküberfall in Hessen Alle haben sich auf die hässliche Krawatte fokussiert und nicht auf sein Gesicht geachtet.html
-root - INFO - Extracting features: Baumwollstreit Chinas TVZensur radiert westliche Marken aus.html
-root - INFO - Extracting features: BayernNiederlage gegen PSG Mit dem Rücken zur Wand.html
+root - INFO - Extracting features: Bundesparteitag AfD will noch keine Spitzenkandidaten für Bundestagswahl bestimmen.html
+root - INFO - Extracting features: CDUChef Laschet verlangt schnelle Entscheidung über Kanzlerkandidatur.html
+root - INFO - Extracting features: China Bergleute in überflutetem Bergwerk eingeschlossen.html
+root - INFO - Extracting features: Coronaimpfungen Laschet fordert Aufhebung der Impfreihenfolge noch im Frühjahr.html
+root - INFO - Extracting features: Coronapandemie Heil plant bundesweite Testpflicht für Betriebe.html
+root - INFO - Extracting features: CoronaSprachverwirrung Welcher Lockdown darfs denn sein.html
 root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Bayerns Niederlage gegen Paris Die Entzauberten.html
+root - INFO - Extracting features: Denn sie wissen nicht was passiert Gottschalk und die acht Jauchetten.html
 root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Bei Dreharbeiten Senta Berger berichtet von Vergewaltigungsversuch.html
-root - INFO - Extracting features: Bei Wahl zur Mrs Sri Lanka Schönheitskönigin entreißt Nachfolgerin die Krone.html
-root - INFO - Extracting features: Bericht für Bundestag Rechnungshof warnt vor Schuldenlawine.html
-root - INFO - Extracting features: Berufseinstieg als Krankenpfleger In letzter Zeit mussten wir vermehrt Menschen fixieren.html
+root - INFO - Extracting features: DFBFrauen schlagen Australien Die nächste Generation überzeugt.html
+root - INFO - Extracting features: El Clásico Benzema trifft per Hacke Kroos mit Freistoß  Real gewinnt gegen Barça.html
+root - INFO - Extracting features: El Clásico Machtloser Messi.html
 root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Bis ins letzte Detail Mann soll Säureangriff auf ExFreundin im Darknet geplant haben.html
-root - INFO - Extracting features: Bundesligakommentator Fuss künftig für Sat1 am Ball.html
-root - INFO - Extracting features: Bundestagswahl Mehrere CDUAbgeordnete wollen Söder als Kanzlerkandidaten.html
-root - INFO - Extracting features: BVB verliert in Manchester Die beste Mannschaft der Welt geärgert.html
+root - INFO - Extracting features: ElektroautoPionierin Warum das Benzinauto sterben muss.html
 root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Campaign Kicks Into High Gear All Who Want Access To Vaccine in Germany Could Get It By July.html
+root - INFO - Extracting features: Erfolg über Aston Villa Liverpool feiert ersten Heimsieg in der Premier League seit Dezember.html
+root - INFO - Extracting features: Erinnerungen an erste Konsolen Also bin ich meinen Eltern auf den Nerv gegangen.html
 root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: CDUFührung in der Coronakrise Brücke ins Nichts.html
+root - INFO - Extracting features: EURatspräsident nach Sofagate Wenn es möglich wäre würde ich zurückreisen und die Sache reparieren.html
+root - INFO - Extracting features: Folgen der Coronaregeln für Kinder FDPFraktion kritisiert Politik ins Blaue hinein.html
+root - INFO - Extracting features: FußballBundesliga Frankfurt gewinnt Spektakel gegen Wolfsburg ersatzgeschwächte Bayern nur remis.html
+root - INFO - Extracting features: FußballBundesliga Newcomer Knauff rettet Dortmunder Sieg in Stuttgart.html
+root - INFO - Extracting features: FußballNationalmannschaft Kurz vor Länderspiel  positiver Coronabefund bei DFBFrauen.html
+root - INFO - Extracting features: Hessens Ministerpräsident Bouffier fordert Klärung der KFrage binnen einer Woche.html
+root - INFO - Extracting features: Im Alter von 93 Jahren Früherer USJustizminister Ramsey Clark gestorben.html
+root - INFO - Extracting features: Im Ärmelkanal Küstenwache rettet mehr als 80 Migranten aus Seenot.html
+root - INFO - Extracting features: LinkenParteitag in NRW Wagenknecht nach Kampfabstimmung als Spitzenkandidatin nominiert.html
+root - INFO - Extracting features: MiniHelikopter Ingenuity Nasa verschiebt geplanten Hubschrauberflug über dem Mars.html
+root - INFO - Extracting features: Myanmar Junta tötet offenbar mehr als 80 Aktivisten.html
+root - INFO - Extracting features: Mögliche Interessenkonflikte CDUAbgeordneter Pfeiffer verzichtet nach Hackerangriff auf Bundestagskandidatur.html
+root - INFO - Extracting features: Natans Iran meldet Zwischenfall in Atomanlage.html
+root - INFO - Extracting features: Neue Brettspiele Ein Fest für Strategen.html
 root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Celle Vermisste 16Jährige wohl in Frankreich aufgetaucht.html
-root - ERROR - Fatal error: could not extract keywords: 
-root - INFO - Extracting features: Champions League Bayerns Gnabry fällt mit CoronaInfektion aus.html
-root - INFO - Extracting features: Champions League BVB überzeugt in Manchester  und verliert.html
-root - INFO - Extracting features: Champions League Die BayernPSGSpiele sind auf dem Wege eine Epoche zu prägen.html
-root - INFO - Extracting features: Champions League Vinícius Galaleistung gegen Liverpool bringt Real Madrid auf Halbfinalkurs.html
-root - INFO - Extracting features: ChelseaSieg in der Champions League Der Weckruf.html
+root - INFO - Extracting features: Olympia kann kommen Wellbrock schwimmt Jahresweltbestzeit.html
+root - INFO - Extracting features: OstukraineKonflikt EVPFraktionschef Weber macht sich für neue Sanktionen gegen Russland stark.html
+root - INFO - Extracting features: Pandemie in Paris Die Franzosen sind widerspenstige Gallier.html
 root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Coronadebatte über Schulschließungen Kinderärzte sprechen von wirklich letzter Option.html
-root - INFO - Extracting features: CoronaEinreisebeschränkungen Maschinenbauer klagen über Quarantänehotel ohne Fenster in China.html
-root - INFO - Extracting features: Coronaimpfstoff Ema empfiehlt AstraZeneca weiterhin uneingeschränkt.html
-root - ERROR - Fatal error: could not extract keywords: 
-root - INFO - Extracting features: Coronakrise Zahl der Insolvenzen zieht an.html
-root - INFO - Extracting features: Coronaleugner vor Gericht Zur Abwechslung mal kleinlaut.html
+root - INFO - Extracting features: Parteiprogramm AfDParteitag fordert Austritt Deutschlands aus der EU.html
+root - INFO - Extracting features: Peru sucht einen neuen Präsidenten 18 Kandidaten  und kein Favorit.html
 root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: CoronaNews am Dienstag Söder Laschets BrückenLockdown entspreche seiner Linie.html
-root - INFO - Extracting features: CoronaNews am Mittwoch Mehr Macht für den Bund  Union will offenbar Infektionsschutzgesetz ändern.html
-root - INFO - Extracting features: Coronapandemie Die Suche nach dem billigen Allerweltsimpfstoff.html
+root - INFO - Extracting features: Pferderennen Rachael Blackmore gewinnt als erste Frau das Grand National.html
+root - INFO - Extracting features: Planungschaos Ausbau der A20 wird knapp eine Milliarde Euro teurer.html
+root - INFO - Extracting features: Post von Augstein Die Tat als Untat.html
 root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Coronaschulden Staat verzeichnet höchstes Finanzierungsdefizit seit der Wiedervereinigung.html
-root - INFO - Extracting features: Coronastatistik Junge Menschen trinken und rauchen mehr.html
-root - INFO - Extracting features: Coronavirus EU zahlt Dänemark Milliardenhilfe wegen getöteter Nerze.html
-root - INFO - Extracting features: Coronavirus G20 stunden Entwicklungsländern noch länger die Schulden.html
-root - INFO - Extracting features: Debatte über Stiftungsgesetz Grüne wollen Zuschüsse für parteinahe Stiftungen neu regeln.html
-root - INFO - Extracting features: DFBPokal Werder zieht durch knappen Sieg in Regensburg ins Halbfinale ein.html
-root - INFO - Extracting features: Die Lage am Abend Das AstraDurcheinander.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Die Lage am Abend Versuchen wir es in der Praxis.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Die Lage am Abend Wie Söder sich an die Kanzlerkandidatur heranrobbt.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Die Lage am Morgen Frisch getestet zum Terminshopping.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Die Lage am Morgen Und der Tiger der hat Zähne.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Die Lage Superwahljahr 2021 Die öffentliche Demütigung.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Ein WarteschlangenKnigge Vom Impfen und Schimpfen.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Eindämmung der Pandemie Merkel plädiert für kurzen und einheitlichen Lockdown.html
-root - INFO - Extracting features: Einfamilienhäuser Ämter verzeichnen Bauboom zum Jahresbeginn.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Fachkräftemangel Ökonomen fordern mehr Zuwanderung und höheres Rentenalter.html
-root - INFO - Extracting features: FC Liverpool wehrt sich gegen Rassismus in sozialen Medien Das ist absolut inakzeptabel und muss aufhören.html
-root - INFO - Extracting features: Feuerwehreinsatz in Hessen Mann will Pommes frittieren  und zündet dabei sein Haus an.html
-root - INFO - Extracting features: Fokus auf Erstimpfungen Bayerns Gesundheitsminister erwägt Änderung der Impfstrategie.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: ForbesListe Donald Trump stürzt im MilliardärsRanking ab.html
-root - INFO - Extracting features: ForbesListe Kim Kardashian ist jetzt Milliardärin.html
-root - INFO - Extracting features: Fortsetzung am Freitag Iran nennt erste Atomgespräche ohne die USA konstruktiv.html
-root - INFO - Extracting features: Französischer Philosoph Intellektueller wirft Michel Foucault Kindesmissbrauch vor.html
-root - INFO - Extracting features: Früherer USVizepräsident Mike Pence kündigt Memoiren an.html
-root - INFO - Extracting features: FußballBundesliga Anonyme Anfeindungen bis hin zu Bedrohungen  SchalkeVorstand Jobst legt Amt nieder.html
-root - INFO - Extracting features: Fußballquiz Wer war der älteste BundesligaTorschützenkönig.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Gedenkveranstaltungen Israel erinnert an Opfer des Holocaust.html
-root - INFO - Extracting features: Genehmigung für Brandenburger Werk Tesla kritisiert deutsche Langsamkeit.html
-root - INFO - Extracting features: Gerichtsentscheidung Wenn der Zweitjob zum Hotspot wird.html
-root - INFO - Extracting features: Gipfel in der Türkei EURatspräsident weist Kritik nach SofaEklat zurück.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Golfprofi Überhöhte Geschwindigkeit soll Hauptursache für Tiger Woods Unfall gewesen sein.html
-root - INFO - Extracting features: Grenze zu Mexiko USBehörden nehmen so viele Migranten fest wie seit 15 Jahren nicht mehr.html
-root - INFO - Extracting features: Großbritanniens Weg zur globalen Mittelmacht Johnson träumt von der neuen Soft Power Superpower.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Haare weiß gefärbt Junge Männer in Mexiko erschleichen sich Coronaimpfung.html
-root - INFO - Extracting features: Hertha BSC Freistellung des Torwarttrainers wird zum Politikum.html
-root - INFO - Extracting features: Hongkonger Aktivist Nathan Law erhält Asyl in Großbritannien.html
-root - INFO - Extracting features: Hunderttausende Dosen Impfstoff Moderna dementiert angeblichen Lieferausfall.html
-root - INFO - Extracting features: Hungerstreik Gesundheitszustand von Nawalny verschlechtert sich offenbar weiter.html
-root - INFO - Extracting features: IDT Biologika Partner von AstraZeneca legt Grundstein für Impfstoffwerk in Dessau.html
-root - INFO - Extracting features: Impfvordrängler Stadtrat verbietet Oberbürgermeister von Halle die Führung der Dienstgeschäfte.html
-root - INFO - Extracting features: Influencerin erklärt sich Warum Khloé Kardashian dafür kämpft dass ein Foto von ihr aus dem Netz verschwindet.html
-root - INFO - Extracting features: Isabella aus Celle Vermisste 16Jährige ist wieder bei ihren Eltern.html
-root - INFO - Extracting features: Italiens 84jähriger ExPremier Silvio Berlusconi erneut im Krankenhaus.html
-root - INFO - Extracting features: Jeff Bezos AmazonChef spricht sich für höhere Unternehmenssteuern aus.html
-root - INFO - Extracting features: Julian Draxler bei Bayerns Gegner PSG Der Schattenspieler.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Kandidatur für Bundestag Thüringens CDU verschiebt Entscheidung über Nominierung von Maaßen.html
-root - INFO - Extracting features: Kinder mit PimsSyndrom Die Tücke der asymptomatischen Coronaverläufe.html
-root - INFO - Extracting features: Konflikt in der Ostukraine Merkel fordert von Putin Truppenabbau.html
-root - INFO - Extracting features: Konflikt in der Ostukraine Selenskyj besucht die Front.html
-root - INFO - Extracting features: Kranker Kremlkritiker Bundesregierung fordert Freilassung von Nawalny.html
-root - INFO - Extracting features: KrimiHype Blacktop Wasteland Der Roman den Stephen King und die New York Times feiern.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Kritik an CoronaVorstoß CDUWirtschaftsrat distanziert sich von Laschets LockdownForderungen.html
-root - INFO - Extracting features: Kritik an deutscher Bürokratie Das heuchlerische Gerede Elon Musks.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: London Abgesetzter Botschafter von Myanmar bittet um Hilfe für sein Land.html
-root - INFO - Extracting features: Londoner Vertretung Militärattaché soll Myanmars Botschafter ausgesperrt haben.html
-root - INFO - Extracting features: Löffingen in BadenWürttemberg Affenrudel bricht aus Tierpark aus.html
-root - INFO - Extracting features: Markus Söder bei Lanz Eiertanz um Evidenzen.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Mautausschuss Opposition setzt Sondersitzung wegen Scheuer durch.html
-root - INFO - Extracting features: Medienberichte Sender feuert NBAExperte Paul Pierce.html
-root - INFO - Extracting features: Mehr Bundeskompetenz in der Pandemie 52 Unionsabgeordnete unterstützen Änderung des Infektionsschutzgesetzes.html
-root - INFO - Extracting features: Missbrauchskomplex Münster 45Jähriger legt Geständnis ab.html
-root - INFO - Extracting features: Monheim in Schwaben 54Jährige nach Frontalunfall gestorben zwei Männer schwer verletzt.html
-root - ERROR - Fatal error: could not extract keywords: 
-root - INFO - Extracting features: Munition im Meer vor Helgoland Forscher untersuchen WeltkriegsWrack auf gefährliche Stoffe.html
-root - INFO - Extracting features: Myong2Experiment Hinweise auf neue Teilchenphysik verdichten sich.html
-root - INFO - Extracting features: Nach Dienst im Impfzentrum Karl Lauterbach hat sich mit AstraZeneca impfen lassen.html
-root - INFO - Extracting features: Nach Leak von FacebookDaten Vorsicht vor SMS zu angeblichen Paketsendungen.html
-root - INFO - Extracting features: Nach rund zwei Wochen Vermisste 16Jährige aus Celle in Frankreich gefunden.html
-root - INFO - Extracting features: Nach Söders SputnikVorstoß Ramelow warnt vor Impfwettbewerb unter den Ländern.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Nach USAusstieg aus internationalem Vertrag Irans Präsident hofft auf Renaissance des Atomabkommens.html
-root - INFO - Extracting features: Nach Wahl in Bulgarien Borissow verzichtet auf Parlamentsmandat.html
-root - ERROR - Fatal error: could not extract keywords: 
-root - INFO - Extracting features: Neue Parteigruppe KlimaUnion will CDU umpolen.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Neues Energiesparkonzept Microsoft kühlt Server in kochender Flüssigkeit.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Neymar und Mbappé gegen den FC Bayern Wie der Punch zweier Schwergewichtsboxer.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Niederlage gegen PSG Mbappé und Neymar zu stark für die Bayern.html
-root - INFO - Extracting features: Nordirland Bus in Belfast bei erneuten Protesten in Brand gesetzt.html
-root - INFO - Extracting features: NordkoreaDoku im ZDF Riskantes Doppelspiel in Pjöngjang.html
+root - INFO - Extracting features: Regierende in der Coronakrise Das sind jetzt noch drei vier schwere Monate.html
 root - ERROR - Fatal error: could not extract author: 
 root - ERROR - Fatal error: could not extract keywords: 
-root - INFO - Extracting features: Nächster Coronafall Karlsruher SC in Quarantäne  2 Bundesliga droht Terminproblem.html
-root - INFO - Extracting features: Offener Brief Herr Laschet ich habe das Restvertrauen in Ihre politischen Fähigkeiten verloren.html
+root - INFO - Extracting features: Rätsel der Woche Die Teppichreparatur.html
 root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Olympische Spiele 2022 Weißes Haus mit Klarstellung  keine USBoykottpläne für Peking.html
-root - INFO - Extracting features: OneMoreYear Appell an Studierende Gönnen Sie sich ein Jahr mehr.html
+root - INFO - Extracting features: Sonnenstrom vom Dach Worauf Sie bei einer Solaranlage achten müssen.html
 root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Oscargewinner Scott Rudin Alle wissen dass er ein absolutes Monster ist.html
-root - INFO - Extracting features: Ostfriesland Ausflügler stundenlang auf ehemaliger Bohrinsel eingeschlossen.html
-root - INFO - Extracting features: Palästina Präsident Mahmoud Abbas lässt sich in Berliner Charité untersuchen.html
-root - INFO - Extracting features: Pattsituation zwischen den Parteien Borissow will Neuwahlen in Bulgarien verhindern.html
+root - INFO - Extracting features: Steife Brise statt Shutdown Schulklasse kehrt nach halbem Jahr auf See zurück.html
+root - INFO - Extracting features: Steuererklärung Worauf Sie bei Werbungskosten achten müssen.html
 root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Pferd starb an Herzinfarkt Deutscher DeckhengstChampion Adlerflug ist tot.html
-root - INFO - Extracting features: Pocher vs Influenzer Klamauk statt Kritik.html
+root - INFO - Extracting features: Talent Knauff schießt BVB zum Sieg in Stuttgart Der Türöffner.html
 root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Polizeiskandal in Sachsen Innenminister entlässt LKAChef und verantwortlichen Abteilungsleiter.html
-root - INFO - Extracting features: Polizist hat bei Aussagen gelogen New Yorker Staatsanwaltschaft will 90 Verurteilungen aufheben.html
-root - INFO - Extracting features: PornoVideospiel Subverse Der Sex ist außerirdisch.html
+root - INFO - Extracting features: The Dog House Sonja Zietlow moderiert neue Show im ZDF.html
+root - INFO - Extracting features: Trauer in Großbritannien Kanonensalven zu Ehren von Prinz Philip.html
+root - INFO - Extracting features: Treffen von Unionsfraktionsvorstand Brinkhaus und Dobrindt drängen Parteichefs zu rascher Klärung der KFrage.html
 root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Proteste gegen Militärregime Bekannter Sänger und Schauspieler in Myanmar festgenommen.html
-root - INFO - Extracting features: Proteste vor Straflager Russische Polizei nimmt Nawalnys Ärztin fest.html
-root - INFO - Extracting features: Prozess zum Tod von George Floyd Schlüsselzeuge verweigert die Aussage.html
-root - INFO - Extracting features: Psychische Folgen von Corona Die Angst nach der Infektion.html
-root - INFO - Extracting features: Quiz über ungewöhnliche Vornamen Wie wäre es mit Infinity oder X Æ AXII.html
+root - INFO - Extracting features: Verstoß gegen Atomabkommen Iran beginnt mit UranAnreicherung in modernen Zentrifugen.html
+root - INFO - Extracting features: Verstoß gegen Coronaregeln Pariser Polizei lässt zwei illegale CoronaDiners auffliegen.html
+root - INFO - Extracting features: Wartelistenprojekt in Potsdam Wohin mit den Impfstoffresten.html
 root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Real Madrid gewinnt gegen Liverpool TraumpassToni.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Real Madrids Trainer Zinédine Zidane Er coacht nicht mehr als er muss.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Regelung ab Montag NRW schickt Schüler wieder in den Distanzunterricht.html
-root - INFO - Extracting features: Richtig studieren Drei strategische Fehler im Studium  und wie man sie vermeidet.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Riesenechse im Regal Waran macht Supermarkt in Thailand unsicher.html
-root - INFO - Extracting features: Risiko durch Zoonosen Forscher entwickeln Datenbank zur Verhinderung von Pandemien.html
-root - INFO - Extracting features: Rückhalt für SpahnVorstoß Justizministerin Lambrecht will mehr Freiheiten für Geimpfte.html
-root - INFO - Extracting features: SachsenAnhalt CDUStadtrat zieht nach Impfskandal Kandidatur für Landtagswahl zurück.html
-root - INFO - Extracting features: Schlechtes Wetter vor Norwegens Küste Bergung der Eemslift Hendrika verschoben.html
-root - INFO - Extracting features: SPIEGEL Community Republik 21 Wie wollen wir miteinander reden.html
-root - ERROR - Fatal error: could not extract keywords: 
-root - INFO - Extracting features: SPIEGELUmfrage Kanzlerin vertraut Söder  glaubt die große Mehrheit der Deutschen.html
-root - INFO - Extracting features: Starke Dortmunder verlieren in Manchester Besser gehts nicht.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Studie zu Antisemitismus Weniger physische Gewalt mehr Onlinehass.html
-root - INFO - Extracting features: Stärkstes erstes Quartal aller Zeiten BMW meldet Verkaufsrekord.html
-root - INFO - Extracting features: Tchibo vertreibt Elektroautos im Abo Kaffee mit Milch und Tesla.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Techinvestor Peter Thiel nennt Bitcoin eine chinesische Finanzwaffe.html
-root - INFO - Extracting features: Teuerstes Gemälde der Welt Ist Salvator Mundi doch nicht von Leonardo.html
-root - INFO - Extracting features: Thailand Taucher retten meditierenden Mönch aus überfluteter Höhle.html
-root - INFO - Extracting features: Trotz überzogener Kurse IWF rechnet mit anhaltendem Börsenboom.html
-root - INFO - Extracting features: Truppenbewegungen in Richtung Ostukraine Was hat Wladimir Putin vor.html
-root - INFO - Extracting features: Umsturzversuch in der Türkei Gericht verurteilt Putschisten zu lebenslanger Haft.html
-root - INFO - Extracting features: Umweltschädlicher Rohstoff Sri Lanka verbietet Import und Anbau von Palmöl.html
-root - INFO - Extracting features: Unfall in NRW Umgekippter Anhänger verliert 18 Tonnen Gülle  Keller vollgelaufen.html
-root - INFO - Extracting features: Union Brinkhaus verlangt rasche Entscheidung der KFrage.html
-root - INFO - Extracting features: Unterwassermuseum vor Cannes Diese Betonköpfe wurden im Meer versenkt  warum.html
-root - INFO - Extracting features: Urlaub trotz Corona Campingplätze hatten im Sommer 2020 deutlich mehr Gäste.html
-root - INFO - Extracting features: Urteil in München Wegen Kindesmissbrauchs im Livestream  sechs Jahre Haft für Auftraggeber.html
-root - INFO - Extracting features: USBundesstaat Arkansas führt AntiTransgenderGesetz ein.html
-root - INFO - Extracting features: USPolizeigewalt Pharrell Williams fordert umfassende Untersuchung des Todes seines Cousins.html
-root - INFO - Extracting features: Verbraucherschützer Stiftung Warentest bietet kostenlosen Vergleich von Girokonten an.html
-root - INFO - Extracting features: Vergessene Monarchin Auguste Victoria Wie die letzte deutsche Kaiserin um die Krone kämpfte.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Vergessene MussoliniAttentäterin Violet Gibson Die Irin die auf den Duce schoss.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Verkehrssicherheit Immer weniger Tote im Straßenverkehr  Rückgang bei Zweiradfahrern am geringsten.html
-root - INFO - Extracting features: Verschlüsselter Messenger Signal testet Bezahlfunktion mit Kryptowährung.html
-root - INFO - Extracting features: Verschärfung des Infektionsschutzgesetzes Merkel will Länder bei Coronabekämpfung entmachten.html
-root - INFO - Extracting features: Von Dockville bis Wacken Diese Festivals sollen trotz Corona stattfinden.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Vor Wirtschaftsgipfel mit Altmaier Unionspolitiker verlangen Testpflicht für Firmen.html
-root - INFO - Extracting features: Vorhersage fürs Wochenende Nasskaltes Aprilwetter verabschiedet sich  für ein paar Tage.html
-root - INFO - Extracting features: Waffengesetze in den USA Biden will mit Verfügung gegen Geisterwaffen vorgehen.html
-root - INFO - Extracting features: Wahlsieg der Linken auf Grönland Grünes Land statt seltener Erden.html
-root - INFO - Extracting features: was kostet ein wlan kabel Diese zehn seltsamen Nutzerfragen und Millionen mehr werden bald gelöscht.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: We Wont Get Around a Serious Lockdown A Third Wave Washes over Germany as Vaccination Campaign Mounts.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Wegen Coronakrise Möbelbauer kämpfen mit Lieferengpässen.html
-root - INFO - Extracting features: Widerstand gegen umstrittenen A49Weiterbau Aktivisten nach Abseilaktionen angeklagt.html
-root - INFO - Extracting features: Wo ist für Drittanbieter iPhones sollen künftig Fahrräder Kopfhörer und Rucksäcke wiederfinden.html
-root - INFO - Extracting features: Xi telefoniert mit Merkel Chinas Staatschef beklagt sich über Störungen.html
-root - INFO - Extracting features: Zu hohe Werbeausgaben Greenpeace kritisiert EUKampagne für Fleisch und Milch.html
-root - INFO - Extracting features: Zu viele Fragen offen SPDLänder lassen Laschet abblitzen.html
-root - INFO - Extracting features: Zugführer meldete Person am Gleis Bahnverkehr zwischen Schwerin und Hamburg gestoppt.html
-root - INFO - Extracting features: Zum Tod von Hans Küng Der unfehlbare Papstkritiker.html
-root - ERROR - Fatal error: could not extract author: 
-root - INFO - Extracting features: Zwischenfall vor Dschibuti Iran meldet Explosion auf Schiff im Roten Meer.html
-root - INFO - Extracting features: ÖffentlichRechtliche ZDFIntendant möchte nicht mit ARD fusionieren.html
+root - INFO - Extracting features: Wegen Corona ausgefallen Jauch durch acht Frauen ersetzt.html
+root - INFO - Extracting features: Zukunftsforscher und Bestsellerautor John Naisbitt ist tot.html
+root - INFO - Extracting features: Änderungen im Infektionsschutzgesetz Die geplanten Neuerungen  und ihre Fallstricke.html
+root - INFO - Extracting features: Überraschung in der Premier League Leeds reichen gegen Man City in Unterzahl zwei Torschüsse zum Sieg.html
 root - INFO - Writing features  to csv: 
 root - INFO - Visualizing the data: 
 matplotlib.font_manager - DEBUG - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=11.0.
@@ -1440,98 +1006,108 @@ matplotlib.font_manager - DEBUG - findfont: score(<Font 'Rage Italic' (RAGE.TTF)
 matplotlib.font_manager - DEBUG - findfont: score(<Font 'Bell MT' (BELLB.TTF) normal normal 700 normal>) = 10.335
 matplotlib.font_manager - DEBUG - findfont: score(<Font 'Ravie' (RAVIE.TTF) normal normal 400 normal>) = 10.05
 matplotlib.font_manager - DEBUG - findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to Arial ('C:\\Windows\\Fonts\\arial.ttf') with score of 0.050000.
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925DD58988>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925DD58988> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDD1426C8>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDD1426C8> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925E2036C8>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925E2036C8> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDC8C1CC8>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDC8C1CC8> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925EF6D2C8>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925EF6D2C8> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDD1B3208>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDD1B3208> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925F212488>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925F212488> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDE1F9E88>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDE1F9E88> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925E5DE0C8>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925E5DE0C8> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDD5B5B88>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDD5B5B88> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925E5A5308>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925E5A5308> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDCF98988>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDCF98988> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925E86D408>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925E86D408> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDDE3F748>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDDE3F748> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925DF1A5C8>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925DF1A5C8> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDD609B88>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDD609B88> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925DEFE488>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925DEFE488> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDDBFCB48>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDDBFCB48> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925F787708>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925F787708> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDC6D4808>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDC6D4808> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925F6FD388>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925F6FD388> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDDC5D308>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDDC5D308> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925F353C48>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925F353C48> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDCDEED88>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDCDEED88> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925F14F208>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925F14F208> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDDF16188>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDDF16188> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925E8CCF88>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925E8CCF88> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDD72E708>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDD72E708> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925E4B40C8>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925E4B40C8> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDCE7DC88>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDCE7DC88> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925E07B708>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925E07B708> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDCAD7908>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDCAD7908> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925EDDA688>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925EDDA688> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDD3415C8>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDD3415C8> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925EEBBFC8>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925EEBBFC8> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDD58AF08>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDD58AF08> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
-matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925EA21E48>
-matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x000002925EA21E48> on colorbar
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDD8A4508>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDD8A4508> on colorbar
+matplotlib.colorbar - DEBUG - Setting pcolormesh
+matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDDA6D3C8>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDDA6D3C8> on colorbar
+matplotlib.colorbar - DEBUG - Setting pcolormesh
+matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
+matplotlib.colorbar - DEBUG - locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDDBC18C8>
+matplotlib.colorbar - DEBUG - Using auto colorbar locator <matplotlib.colorbar._ColorbarAutoLocator object at 0x0000027CDDBC18C8> on colorbar
 matplotlib.colorbar - DEBUG - Setting pcolormesh
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
 matplotlib.axes._base - DEBUG - top of axes not in the figure, so title not moved
